@@ -11,6 +11,12 @@ rather than designing, creating and deploying brand new platforms.
 In this case we repurposed [Trello](https://trello.com) as our CMS and database
 so the site becomes a read-only view on the cards stored in trello.
 
+## Repositories
+
+- [catalyst-vue-webapp](https://github.com/unplatform/catalyst-vue-webapp)
+- [catalyst-node-api](https://github.com/unplatform/catalyst-node-api)
+- [catalyst-trello-scraper](https://github.com/unplatform/catalyst-trello-scraper)
+
 ## Who made this?
 
 This project was developed at [Open Lab](https://openlab.ncl.ac.uk)
