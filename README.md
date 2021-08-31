@@ -13,9 +13,11 @@ so the site becomes a read-only view on the cards stored in trello.
 
 ## Repositories
 
-- [catalyst-vue-webapp](https://github.com/unplatform/catalyst-vue-webapp)
-- [catalyst-node-api](https://github.com/unplatform/catalyst-node-api)
-- [catalyst-trello-scraper](https://github.com/unplatform/catalyst-trello-scraper)
+- [catalyst-webapp](https://github.com/digitalinteraction/catalyst-webapp)
+- [catalyst-api](https://github.com/digitalinteraction/catalyst-api)
+- [catalyst-trello-scraper](https://github.com/digitalinteraction/catalyst-trello-scraper)
+- [trello-client](https://github.com/digitalinteraction/trello-client)
+- [gform-to-trello](https://github.com/digitalinteraction/gform-to-trello)
 
 ## Who made this?
 
